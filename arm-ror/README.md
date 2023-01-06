@@ -46,3 +46,5 @@ CGO_LDFLAGS="-g -O2"
 PKG_CONFIG="pkg-config"
 GOGCCFLAGS="-fPIC -arch arm64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/7_/yc9s7tp94lq83r7fmlncg58c0000gn/T/go-build2852821403=/tmp/go-build -gno-record-gcc-switches -fno-common"
 ```
+
+[docs]: https://pkg.go.dev/cmd/internal/obj/arm64#hdr-Argument_mapping_rules
